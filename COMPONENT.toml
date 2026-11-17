@@ -1,6 +1,6 @@
 [component]
 name = "SigmaOS-theme-icon"
-description = "SigmaOS subsystem component for theme-icon"
+description = "Icon theme pack (mint-x/y/l)"
 version = "0.1.0"
 tier = 5
 
